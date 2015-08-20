@@ -1,0 +1,8 @@
+.reveal section img.logo {
+    border: none;
+    margin-left: 15px;
+    margin-right: 15px;
+    box-shadow: none;
+    background: none;
+    vertical-align: middle;
+}
