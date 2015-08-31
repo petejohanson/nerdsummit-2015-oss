@@ -6,3 +6,14 @@
     background: none;
     vertical-align: middle;
 }
+
+span.github-issue-label {
+    font-family: Helvetica, arial;
+    font-weight: bold;
+    font-size: smaller;
+    background-color: green;
+    padding-left: 6px;
+    padding-right: 6px;
+    border-radius: 5px;
+
+}
